@@ -1,4 +1,4 @@
-class BaseObject
+export class BaseObject
 {
 	constructor()
 	{
@@ -1330,4 +1330,4 @@ class BaseObject
 	}
 }
 
-module.exports = {BaseObject}
+export default {BaseObject}
