@@ -1,0 +1,20 @@
+{
+  "files": {
+    "GameInterface.js": [
+      {
+        "id": "32d9c81a-4d61-4816-8c3e-b8ff25c0cce2",
+        "line": 5,
+        "version": 355,
+        "index": 58
+      }
+    ],
+    "GameObject.js": [
+      {
+        "id": "93babc1f-946b-4df5-ad89-7fb997a4e8a8",
+        "line": 4,
+        "version": 466,
+        "index": 76
+      }
+    ]
+  }
+}
