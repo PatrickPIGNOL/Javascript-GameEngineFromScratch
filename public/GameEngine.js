@@ -1,6 +1,6 @@
-import {EventProvider} from "./EventProvider.js";
+import {BaseObject} from "./BaseObject.js";
 import {EBrowsers} from "./EBrowsers.js";
-export class GameEngine extends EventProvider
+export class GameEngine extends BaseObject
 {
     static aInstance = null;
     static get Instance()
